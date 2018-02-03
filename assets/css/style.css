@@ -131,6 +131,7 @@ li a:active {
     width: 600px;
     margin: auto;
     padding: 15px;
+    border: 1px solid #ddd;
 }
 
 .sidebar {
@@ -138,6 +139,7 @@ li a:active {
     float: right;
     width: 270px;
     padding: 15px;
+    border: 1px solid #ddd;
 }
 
 #footer {
